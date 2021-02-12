@@ -1,4 +1,4 @@
-3.	Features:  
+Features:  
 
 -	Validates age 
 -	Calculates amount per gram
