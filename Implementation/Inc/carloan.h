@@ -1,6 +1,6 @@
-#ifndef carloan_H
-#define carloan_H
+#ifndef Carloan_H
+#define Carloan_H
 
-void do_carloan();
+void do_Carloan();
 
 #endif
