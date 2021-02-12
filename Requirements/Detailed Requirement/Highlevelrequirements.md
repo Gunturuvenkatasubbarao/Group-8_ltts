@@ -4,10 +4,10 @@ High-level requirements:
 
 •	Rate of interest.
 
-•	Loan period.
-
-•	Income tax returns
-
-•	Age validation
-
 Agri Allied Occupation Documentation( in case of bullet repayment for agriculture customers)
+
+Bank statement of the last six months
+
+Salary slip and form 16 (for salaried persons)
+
+Income tax returns (for self-employed persons)
