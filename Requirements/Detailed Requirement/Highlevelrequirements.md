@@ -9,3 +9,5 @@ High-level requirements:
 •	Income tax returns
 
 •	Age validation
+
+Agri Allied Occupation Documentation( in case of bullet repayment for agriculture customers)
