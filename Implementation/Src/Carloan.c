@@ -11,6 +11,7 @@ void CarLoan(){
     	        else{
     	            scamt=2500000;
     	        }
+                
     	       int amt;
     	        printf("enter the amount u want");
     	        scanf("%d",&amt);
