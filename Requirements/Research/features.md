@@ -5,3 +5,4 @@ Features:
 -	Calculates loan according to IT returns
 -	Calculates interest
 -	EMI will be displayed to customer 
+- flexible intrest rates
