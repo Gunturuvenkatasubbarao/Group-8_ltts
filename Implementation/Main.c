@@ -8,10 +8,9 @@ void do_Goldloan();
 void do_Carloan();
 
 
-void calc_opr()
+void opt()
 {
 	printf("\n             Welcome to Loan calculator \n\n");
-	calc_inst();
 
 	printf("Enter 1 for Goldloan \n");
 	printf("Enter 2 for Carloan \n");
@@ -24,7 +23,7 @@ int main(void)
 	char input;
 	char respo;
 
-	opr();
+	opt();
 	scanf("%c", &input);
 	switch(input)
 	{ 
