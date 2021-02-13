@@ -1,9 +1,9 @@
 void CarLoan(){
     int pan,int scmt;
-     printf("enter pan number \n");
+     printf("ENTER YOUR NAME \n");
     	        scanf("%d",&pan);
                 int ITR;
-    	        printf("enter ITR \n");
+    	        printf("ENTER IT REUTNS \n");
     	        scanf("%d",&itr);
     	        if(itr <500000  && itr >100000){
     	            scamt = 500000;
@@ -13,7 +13,7 @@ void CarLoan(){
     	        }
                 
     	       int amt;
-    	        printf("enter the amount u want");
+    	        printf("ENTER THE AMOUNT YOU WANT");
     	        scanf("%d",&amt);
                 int m;
     	        printf("enter the time in years");
