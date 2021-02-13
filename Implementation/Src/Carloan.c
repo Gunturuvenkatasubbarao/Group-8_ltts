@@ -1,4 +1,4 @@
-void carloan()
+void Carloan()
 {
 printf("enter pan number \n");
     	        scanf("%s",&pan);
@@ -21,8 +21,8 @@ printf("enter pan number \n");
     	        printf("enter the time in years");
     	        scanf("%d",&m);
     	        m1=m*12;
-    	        prfee = (0.5/100)*scamt;
-                inter = (7.3/100)*scamt*m;
+    	        prfee = (0.05/100)*scamt;
+                inter = (0.07/100)*scamt*m;
                 ctotal = scamt+ prfee+inter;
                 
                 
