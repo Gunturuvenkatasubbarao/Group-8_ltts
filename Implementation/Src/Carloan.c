@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
@@ -18,6 +19,12 @@ int main()
         	 printf("ENTER YOUR NAME \n");
     	        scanf("%d",&pan);
     	        printf("ENTER ITR \n");
+=======
+void CarLoan(){
+    printf("ENTER YOUR NAME \n");
+    	        scanf("%s",&pan);
+    	        printf("ENTER IT RETURNS \n");
+>>>>>>> 7d1afb4c0e18bf4609ca4d03c633c6462cb92457
     	        scanf("%d",&itr);
     	        //if(itr <100000 )
     	        {
@@ -43,5 +50,8 @@ int main()
                 
                 printf("SANCTINED AMOUNT IS %d \n",scamt);
         	    printf("TOTAL REPAYMENT %lf \n" ,ctotal);
+<<<<<<< HEAD
 	  }
  }
+=======
+>>>>>>> 7d1afb4c0e18bf4609ca4d03c633c6462cb92457
