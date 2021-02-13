@@ -1,7 +1,7 @@
 void CarLoan(){
     printf("ENTER YOUR NAME \n");
-    	        scanf("%d",&pan);
-    	        printf("ENTER ITR \n");
+    	        scanf("%s",&pan);
+    	        printf("ENTER IT RETURNS \n");
     	        scanf("%d",&itr);
     	        if(itr <100000 )
     	        {
