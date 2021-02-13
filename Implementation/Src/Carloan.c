@@ -15,41 +15,14 @@ int main()
 	   printf("enter age \n");
 	   scanf("%d", &age);
       if(age>=18 && age<=60){
-	        
-	    printf("choose 1 or 2 \n");
-	    printf("1.gold loan  \n");
-	    printf("2.car loan \n");
-        scanf("%d",&ch);	        
-	    switch(ch){
-	        
-	        case 1:
-	       
-    	        printf("enter weight in grams \n");
-    	        scanf("%d",&grams);
-    		    printf("enter time in years \n");
-    		    scanf("%d",&years);
-        	    int months;
-        	    months1=months*12;
-        	    amount = grams*2500;
-        	    pfee = 0.5*amount;
-        		inte = 0.07*amount;
-        	    total = amount+pfee+inte;
-        	    //emi = total/months1; 
-        	    
-        	    printf("Sanctioned loan amount is %d \n",amount);
-        	    printf("toal Repayment %lf \n" ,total);
-        	    break;
-        	    
-        	    case 2:
-        	    
-        	    printf("enter pan number \n");
+        	 printf("ENTER YOUR NAME \n");
     	        scanf("%d",&pan);
-    	        printf("enter ITR \n");
+    	        printf("ENTER ITR \n");
     	        scanf("%d",&itr);
-    	        if(itr <100000 )
+    	        //if(itr <100000 )
     	        {
     	        	printf("YOU ARE NOT ELIGIBLE FOR THE LOAN ");
-    	        	break;
+    	    //
     	        }
     	        if(itr >100000 && itr<500000){
     	            scamt = 500000;
@@ -60,7 +33,7 @@ int main()
     	        }
     	       
     	        
-    	        printf("enter the time in years");
+    	        printf("ENTER THE TIME IN YEARS");
     	        scanf("%d",&m);
     	        m1=m*12;
     	        prfee = (0.5/100)*scamt;
@@ -68,15 +41,7 @@ int main()
                 ctotal = scamt+ prfee+inter;
                 
                 
-                printf("Sanctioned loan amount is %d \n",scamt);
-        	    printf("total repayment %lf \n" ,ctotal);
-        	    break;
-    	       
-	    
-	    
-        
-      }
-	    return 0;
-	}
-}
-
+                printf("SANCTINED AMOUNT IS %d \n",scamt);
+        	    printf("TOTAL REPAYMENT %lf \n" ,ctotal);
+	  }
+ }
