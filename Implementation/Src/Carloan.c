@@ -5,7 +5,7 @@ void CarLoan(){
                 int ITR;
     	        printf("ENTER IT REUTNS \n");
     	        scanf("%d",&itr);
-    	        if(itr <500000  && itr >100000){
+    	        if(itr <100000 && itr>500000){
     	            scamt = 500000;
     	        }
     	        else{
