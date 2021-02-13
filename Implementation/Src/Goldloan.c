@@ -1,14 +1,29 @@
-void Goldloan(){
-    int grams;
-    printf("Enter Grams:\n");
-    scanf("%d",&grams);
-    int months;
-    printf("Enter no of months:\n");
-    scanf("%d",&months);
-    int amount=grams*2500;
-    double pfee=0.05*amount;
-    double interest=0.07*amount;
-    double total=amount+pfee+interest;
-    printf("Sanctioned amount %d:",amount);
-    printf("Total repayment %lf:",total);
-}
+void GoldLoan(){
+	             int grams,years;
+    	        printf("enter weight in grams \n");
+    	        scanf("%d",&grams);
+    		    printf("enter time in years \n");
+    		    scanf("%d",&years);
+        	    int  months;
+        	    double need;
+        	    int months1=years*12;
+        	    double amount = grams*2500;
+        	  
+        	    
+        	    
+        	    
+        	    printf("Sanctioned loan amount is %lf \n",amount);
+        	    printf("Amount you need ");
+        	     scanf("%lf",&need);
+        	    
+        		double inte = 0.007*need;
+        	     while(need>amount)
+        	     {
+        	         printf("please enter the amount below the sanctioned amount");
+        	         scanf("%lf",&need);
+        	     }
+        	     double emi = (need/months1)+inte;
+        	     
+        	    printf("EMI amount per month is %lf \n" ,emi);
+        	   
+	    }
