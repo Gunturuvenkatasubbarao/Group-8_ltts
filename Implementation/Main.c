@@ -35,7 +35,7 @@ int main()
 	   scanf("%d",&value);
 	   switch(value){
             case 1:
-            GoldLoan();
+            Goldloan();
             break;
             case 2:
             Carloan();
