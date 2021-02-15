@@ -6,6 +6,6 @@ This mainly focuses on calculating the loan amount that has to be given to custo
 
 DEFINING PRODUCT:
 
--	Gives user option to enter any amount of gold and system calculates the loan.
+-	Gives user option to enter any quantity of gold and system calculates the loan.
 -	The system is user friendly and provides many function to the user. 
 -	The system will perform some advance calculations to calculate loan amount.
