@@ -2,14 +2,12 @@
   SWOT ANALYSIS
 
 STRENGTHS:
-
 1. Strong capital raising capability.
 2. No need of income proof.
 3. No charges for early closed.
 4. You can pay interest only.
 
 WEAKNESS:
-
 1. Loss of your gold: In case you fail to repay the loan or interest on time.
 2. High margin required.
 3. Only for short tenures.
