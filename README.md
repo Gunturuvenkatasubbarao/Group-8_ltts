@@ -52,7 +52,4 @@ Screenshot of cppcheck (before)
 ![Alt Text](https://github.com/Gunturuvenkatasubbarao/Group-8_ltts/blob/main/img/code.png)
 
 
-FigureScreenshot of cppcheck (after)
-![Alt Text](https://github.com/Gunturuvenkatasubbarao/Group-8_ltts/blob/main/img/cppcheck.png)
-
 
