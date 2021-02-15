@@ -10,5 +10,4 @@ Bank statement of the last six months.
 
 Salary slip and form 16 (for salaried persons).
 
-
 Income tax returns (for self-employed persons).
