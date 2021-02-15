@@ -1,6 +1,6 @@
 INTRODUCTION :
 
--A device that performs logic and arithmetic digital operations based on numeric data which are entered by pressing numerical data which are entered by pressing numerical and control keys.
+A device that performs logic and arithmetic digital operations based on numeric data which are entered by pressing numerical data which are entered by pressing numerical and control keys.
 This mainly focuses on calculating the loan amount that has to be given to customer based on the particular inputs. 
 
 
