@@ -3,43 +3,53 @@
 
 ## LOAN CALCULATOR </br>
 
-TABLE OF CONTENTS 
 
-ACTIVITY -1	1
+1- Requirements:
+Research:
 
-1- Requirements:	1
+1.	The Aim of the project is to calculate and assign the loan amount to the customer. The system provides two different types of loans: gold loan, car loan. Using various factors such as age, rate of interest and amount required, the total loan amount is calculated and given as output to the customer. The system has gone through various test cases and found efficient to use.
+2.	The components/parameters used in this system are: gold in grams, age, interest, Emi and it returns.
 
-Research	1
+My Software:
+•	Loan banking facility
+•	Saves customer time 
+•	Easy interaction with customer
 
-My Software	1
+SWOT Analysis:
+Figure 1: SWOT Analysis
+![Alt Text](https://github.com/Gunturuvenkatasubbarao/Group-8_ltts/blob/main/img/swot.png)
 
-SWOT Analysis	2
+High-Level requirements:
+•	Principal Amount.
+•	Rate of interest.
+•	Loan period.
+•	Income tax returns
 
-High-Level requirements:	2
+Low-Level requirements:
+•	Calculate the total loan period in months.
+•	Calculate the interest by using rate of interest formula (A = P (1 + rt)).
+•	Set the yearly interest rate
+•	Set the initial amount. 
+3 - Design:
+Behavioral
+Figure 3: User interaction with system
+![Alt Text](https://github.com/Gunturuvenkatasubbarao/Group-8_ltts/blob/main/img/behavioral.png)
 
-Low-Level requirements:	2
+Structural:
+Figure 4: User registration and actions performed
 
-2 - High-Level Diagram	2
+![Alt Text](https://github.com/Gunturuvenkatasubbarao/Group-8_ltts/blob/main/img/stuctural.png)
 
-3 - Design:	3
+4 - Test Plan
+![Alt Text](https://github.com/Gunturuvenkatasubbarao/Group-8_ltts/blob/main/img/test.PNG)
 
-High-Level Design:	3
+4 – GIT Hub Working
+Link to access repository: https://github.com/Gunturuvenkatasubbarao/Group-8_ltts
+Screenshot of cppcheck (before)
+![Alt Text](https://github.com/Gunturuvenkatasubbarao/Group-8_ltts/blob/main/img/code.png)
 
-Behavioral	3
 
-Structural	3
+FigureScreenshot of cppcheck (after)
+![Alt Text](https://github.com/Gunturuvenkatasubbarao/Group-8_ltts/blob/main/img/cppcheck.png)
 
-Low-Level Design:	4
-
-Behavioral	4
-
-Structural	4
-
-4 - Test Plan	5
-
-Integrated test plan	5
-
-Unit test plan	5
-
-5 – GIT Hub Working	06
 
