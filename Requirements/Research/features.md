@@ -1,6 +1,6 @@
 Features:  
 
--	Validates age 
+-	 Validates age 
 -	 Calculates amount per gram
 -	 Calculates loan according to IT returns
 -	 Calculates interest
