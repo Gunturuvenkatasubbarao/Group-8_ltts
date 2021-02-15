@@ -8,7 +8,7 @@ Agri Allied Occupation Documentation( in case of bullet repayment for agricultur
 
 Bank statement of the last six months.
 
-Salary slip and form 16 (for salaried persons).
+Salary slips and form 16 (for salaried persons).
 
 
 Income tax returns (for self-employed persons).
