@@ -6,4 +6,4 @@ Low level requirements:
 
 •	Set the yearly interest rate
 
-•	Set the initial amount. 
+•	submit the documents that required for the loan
