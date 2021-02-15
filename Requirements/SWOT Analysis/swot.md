@@ -26,3 +26,4 @@ THREATS:
 1. Raising interest scenario.
 2. Auto lending is likely to continue to be negatively affected by household debt.
 3. Early pay of penalties.
+4. When you begin to miss payments. It will affect your credit score.
