@@ -3,5 +3,4 @@
 
 void Goldloan();
 
-
 #endif
