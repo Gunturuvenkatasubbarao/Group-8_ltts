@@ -13,7 +13,7 @@ Name                           |   PS No.  |    Features    | Issuess Raised    
 '1) Gunturu Venkata subbarao' 	 |99003704   |     Test plan	|  on update the plan  |      updation is completed
 '2) Golla tejasai'               |99003705	 |Test cases	    |  on testcases        |       testcases issue is resolved
 '3) M.Ramprasad '  	             |99003703	 |error           |     error            |       errors are resolved
-'4) Vikram naidu'           	   |99003714	 |update Features | 	  Features         |       Fatures are updated
+'4) Vikram naidu'           	   |99003714	 |update Features | 	  Features         |       Features are updated
 '5) Challa Venkataramana'	       |99003707	 | code	          |  update the main code|        code issue is resolved
 '6) Gundu Karthikkumar'          |99003712	 |  Format        |    change the fromat |         issue is resolved
 
