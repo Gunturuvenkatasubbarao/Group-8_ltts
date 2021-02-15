@@ -12,34 +12,7 @@ int main()
 	 int age;
 	 printf("enter name:");
 	 scanf("%s", name);
-	 int pass=1;
-	  
-        while(pass)
-        {   
-	   int count =0;
-           int length = strlen(name);
-           for(int i=0;i<length;i++)
-        {
-            if((name[i]>=65 && name[i]<=90) || (name[i]>=97 && name[i]<=122))
-        {
-        	continue;
-		}
-		else
-		{
-			count++;
-			
-		}
-        }
-             if(count!=0)
-        {
-            printf("Invalid Name Please enter a valid one : ");
-            scanf("%s",name);
-        }
-         else
-        {
-            pass=0;
-        }
-    }
+	 
 	 
 	printf("Enter age:\n");
 	scanf("%d",&age);
