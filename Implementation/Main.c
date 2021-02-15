@@ -10,14 +10,15 @@ int main()
 {
 	 char name[20];
 	 int age;
-	   printf("enter name:");
-	   scanf("%s", name);
+	 printf("enter name:");
+	 scanf("%s", name);
 	 int pass=1;
 	  
         while(pass)
-        {   int count =0;
+        {   
+	   int count =0;
            int length = strlen(name);
-            for(int i=0;i<length;i++)
+           for(int i=0;i<length;i++)
         {
             if((name[i]>=65 && name[i]<=90) || (name[i]>=97 && name[i]<=122))
         {
@@ -41,7 +42,7 @@ int main()
     }
 	 
 	printf("Enter age:\n");
-	   scanf("%d",&age);
+	scanf("%d",&age);
 	   
 	   int count=1;
 	   while(count)
