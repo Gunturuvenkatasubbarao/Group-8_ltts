@@ -6,7 +6,7 @@ char name[20];
 int years;
 printf("ENTER PANCARD NUMBER : ");
 scanf("%s",name);
-printf("Enter your IT Returns: ");
+printf("ENTER YOUR IT RETURNS: ");
 scanf("%lf",&itr);
 if(itr<100000)
 {
