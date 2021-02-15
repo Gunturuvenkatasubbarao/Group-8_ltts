@@ -34,6 +34,8 @@ Low-Level requirements:
 Behavioral
 Figure 3: User interaction with system
 ![Alt Text](https://github.com/Gunturuvenkatasubbarao/Group-8_ltts/blob/main/img/behavioral.png)
+![Alt Text](https://user-images.githubusercontent.com/78850554/107929088-2ec3d000-6f9f-11eb-9c13-09d59b857b10.PNG)
+
 
 Structural:
 Figure 4: User registration and actions performed
