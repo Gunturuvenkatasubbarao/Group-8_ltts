@@ -1,4 +1,4 @@
-High-level requirements
+High-level requirements:
 
 •	Principal Amount.
 
