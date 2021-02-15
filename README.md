@@ -46,10 +46,5 @@ Figure 4: User registration and actions performed
 
 ![Alt Text](https://github.com/Gunturuvenkatasubbarao/Group-8_ltts/blob/main/img/test.PNG)
 
-5 – GIT Hub Working
-Link to access repository: https://github.com/Gunturuvenkatasubbarao/Group-8_ltts
-Screenshot of cppcheck (before)
-![Alt Text](https://github.com/Gunturuvenkatasubbarao/Group-8_ltts/blob/main/img/code.png)
-
 
 
