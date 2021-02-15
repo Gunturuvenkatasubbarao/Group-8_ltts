@@ -1,7 +1,7 @@
   
   SWOT ANALYSIS
 
-STRENGTH:
+STRENGTHS:
 
 1. Strong capital raising capability.
 2. No need of income proof.
