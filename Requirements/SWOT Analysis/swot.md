@@ -3,11 +3,10 @@
 
 STRENGTH:
 
-1. Strong capital raising capability
-2. Geographic diversification which aids business scalability.
-3. No need of income proof.
-4. No charges for early closed.
-5. You can pay interest only.
+1. Strong capital raising capability.
+2. No need of income proof.
+3. No charges for early closed.
+4. You can pay interest only.
 
 WEAKNESS:
 
