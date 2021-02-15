@@ -1,8 +1,8 @@
 void Goldloan(){
 	            int grams,years;
-    	            printf("enter weight in grams \n");
+    	            printf("Enter weight in grams \n");
     	            scanf("%d",&grams);
-    		    printf("enter time in years \n");
+    		    printf("Enter time in years \n");
     		    scanf("%d",&years);
         	    int  months;
         	    double need;
@@ -19,7 +19,7 @@ void Goldloan(){
         	     double inte = 0.007*need;
         	     while(need>amount)
         	     {
-        	         printf("please enter the amount below the sanctioned amount");
+        	         printf("Please enter the amount below the sanctioned amount");
         	         scanf("%lf",&need);
         	     }
         	    double emi = (need/months1)+inte;
