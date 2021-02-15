@@ -43,7 +43,7 @@ Figure 4: User registration and actions performed
 
 4 - Test Plan
 
-![Alt Text](https://github.com/Gunturuvenkatasubbarao/Group-8_ltts/blob/main/img/test.PNG)
+![Alt Text](https://github.com/Gunturuvenkatasubbarao/Group-8_ltts/blob/main/img/Test%20Plan.PNG)
 
 
 
