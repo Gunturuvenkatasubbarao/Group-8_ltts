@@ -6,7 +6,7 @@ High-level requirements:
 
 Agri Allied Occupation Documentation( in case of bullet repayment for agriculture customers).
 
-Bank statement of the last six months.
+Bank statement of the last six months
 
 Salary slips and form 16 (for salaried persons).
 
