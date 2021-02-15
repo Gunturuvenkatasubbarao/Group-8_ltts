@@ -31,7 +31,7 @@ else if(itr>=100000 && itr<=500000)
     	     inte = 0.007*need;
     	     double emi = (need/(years*12))+inte;
     	     
-    	    printf("EMI AMOUNT PER MONTH IS %lf \n" ,emi);
+    	     printf("EMI AMOUNT PER MONTH IS %lf \n" ,emi);
     	    
     	    
     	   
@@ -49,10 +49,10 @@ else
         
     }
     printf("ENTER YEARS: ");
-    	     scanf("%d",&years);
+    scanf("%d",&years);
     inte = 0.005*need;
-    	     double emi = (need/(years*12))+inte;
+    double emi = (need/(years*12))+inte;
     	     
-    	    printf("EMI AMOUNT PER MONTH IS %lf \n" ,emi);
+    printf("EMI AMOUNT PER MONTH IS %lf \n" ,emi);
     	   
 }
